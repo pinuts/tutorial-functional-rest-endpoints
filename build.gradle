@@ -3,7 +3,7 @@ apply from: '.umstarter.gradle'
 // Siehe Kickstarter.md für Beispiele und Erklärungen.
 
 dependencies {
-    runtime('de.pinuts.cmsbs:UM:7.45.1')
+    runtime('de.pinuts.cmsbs:UM:7.47.0')
 
     // http://mavenrepo/#artifact~pinuts-releases/de.pinuts.cmsbs/CseConsole
     runtime('de.pinuts.cmsbs:CseConsole:7.32.3')
